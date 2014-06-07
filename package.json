@@ -1,6 +1,7 @@
 {
   "name": "vakyom",
   "version": "0.0.1",
+  "private": true,
   "description": "A simple targetted web scrapper in node.js",
   "keywords": [],
   "homepage": "https://github.com/HEPL-RIA/vakyom",
