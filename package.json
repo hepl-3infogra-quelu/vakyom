@@ -1,6 +1,7 @@
 {
   "name": "vakyom",
   "version": "0.0.1",
+  "private": true,
   "description": "A simple targetted web scrapper in node.js",
   "keywords": [],
   "homepage": "https://github.com/HEPL-RIA/vakyom",
@@ -24,7 +25,7 @@
   ],
   "main": "lib/vakyom",
   "bin": {
-    "vakyom" : "lib/vakyom.js"
+    "vakyom": "lib/vakyom.js"
   },
   "engines": {
     "node": ">= 0.10"
@@ -36,5 +37,9 @@
     "grunt-contrib-jshint": "~0.6",
     "grunt-contrib-watch": "~0.5",
     "grunt": "~0.4"
+  },
+  "dependencies": {
+    "chalk": "^0.4.0",
+    "jsdom": "^0.10.6"
   }
 }
