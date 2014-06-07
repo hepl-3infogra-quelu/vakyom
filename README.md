@@ -14,14 +14,14 @@
 
 **vakyòm** sera notre premier projet `node.js`.
 
-Il consistera en un simple outil en ligne de commande, qui attendra deux paramètres : une `URL` à attaquer, ainsi qu'un `sélecteur css` à utiliser pour récupérer une cible.  
-Si cette cible est une *image*, elle sera téléchargée, si c'est un texte, il sera affichée dans la console.
+Il consistera en un simple outil en ligne de commande, qui attendra deux paramètres : une `URL` à attaquer, ainsi qu’un `sélecteur css` à utiliser pour récupérer une cible.  
+Si cette cible est une *image*, elle sera téléchargée, si c’est un texte, il sera affiché dans la console.
 
 ## Prérequis
 
-Le seul prérequis *logiciel* pour cette exercice est [l'installation de node.js](http://nodejs.org) sur votre ordinateur.
+Le seul prérequis *logiciel* pour cet exercice est [l'installation de node.js](http://nodejs.org) sur votre ordinateur.
 
-Ensuite, il vous suffit de faire un "*fork*" de ce repository pour avoir les bases de travail et commencer à travailler en classe.
+Ensuite, il vous suffit de faire un «*fork*» de ce repository pour avoir les bases de travail et commencer à travailler en classe.
 
 * * *
 
