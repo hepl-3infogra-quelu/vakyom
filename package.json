@@ -1,0 +1,40 @@
+{
+  "name": "vakyom",
+  "version": "0.0.1",
+  "description": "A simple targetted web scrapper in node.js",
+  "keywords": [],
+  "homepage": "https://github.com/HEPL-RIA/vakyom",
+  "author": {
+    "name": "leny",
+    "email": "info@flatland.be",
+    "url": "http://leny.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HEPL-RIA/vakyom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HEPL-RIA/vakyom/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/HEPL-RIA/vakyom/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/vakyom",
+  "bin": {
+    "vakyom" : "lib/vakyom.js"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "scripts": {
+    "test": "grunt lint"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6",
+    "grunt-contrib-watch": "~0.5",
+    "grunt": "~0.4"
+  }
+}
