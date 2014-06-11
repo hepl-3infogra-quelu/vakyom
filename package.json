@@ -31,7 +31,7 @@
     "node": ">= 0.10"
   },
   "scripts": {
-    "test": "grunt lint"
+    "test": "grunt jshint"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6",
